@@ -67,7 +67,7 @@ public class Veiculo
      * Retorna uma descrição do veiculo como String
      */
     public String obterDescricaoVeiculo() {
-        return "Carro " + modelo + " da marca " + marca
+        return "Veiculo " + modelo + " da marca " + marca
                + " de placa " + placa + " a " + velocidadeAtual + " km/h";
     }
 }
